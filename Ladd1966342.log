@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.17)  15 AUG 2020 14:36
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.17)  15 AUG 2020 23:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -538,7 +538,51 @@ File: ppxetex.def 2020/01/28 v0.5q Pdfpages driver for XeTeX (AM)
 \AM@toc@title=\toks30
 \c@AM@survey=\count321
 \AM@templatesizebox=\box70
-) (c:/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+) (c:/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (c:/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks31
+\pgfutil@tempdima=\dimen291
+\pgfutil@tempdimb=\dimen292
+ (c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box71
+ (c:/texlive/2020/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)) (c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (c:/texlive/2020/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+)) (c:/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks32
+\pgfkeys@temptoks=\toks33
+ (c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks34
+))) (c:/texlive/2020/texmf-dist/tex/latex/pgf/math/pgfmath.sty (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+\pgf@x=\dimen293
+\pgf@xa=\dimen294
+\pgf@xb=\dimen295
+\pgf@xc=\dimen296
+\pgf@y=\dimen297
+\pgf@ya=\dimen298
+\pgf@yb=\dimen299
+\pgf@yc=\dimen300
+\c@pgf@counta=\count322
+\c@pgf@countb=\count323
+\c@pgf@countc=\count324
+\c@pgf@countd=\count325
+) (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen301
+\pgfmath@count=\count326
+\pgfmath@box=\box72
+\pgfmath@toks=\toks35
+\pgfmath@stack@operand=\toks36
+\pgfmath@stack@operation=\toks37
+) (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count327
+))) (c:/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+ (c:/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen302
+\pgffor@skip=\dimen303
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
+)) (c:/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
  (c:/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
@@ -560,9 +604,9 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 ) (c:/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 )
-\@linkdim=\dimen291
-\Hy@linkcounter=\count322
-\Hy@pagecounter=\count323
+\@linkdim=\dimen304
+\Hy@linkcounter=\count328
+\Hy@pagecounter=\count329
  (c:/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
 ) (c:/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
@@ -570,7 +614,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ) (c:/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count324
+\Hy@SavedSpaceFactor=\count330
 Package hyperref Info: Option `unicode' set `true' on input line 4421.
  (c:/texlive/2020/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2020/01/14 v7.00d Hyperref: PDF Unicode definition (HO)
@@ -584,21 +628,21 @@ Package hyperref Info: Plain pages OFF on input line 4562.
 Package hyperref Info: Backreferencing OFF on input line 4567.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4800.
-\c@Hy@tempcnt=\count325
+\c@Hy@tempcnt=\count331
  (c:/texlive/2020/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5159.
-\XeTeXLinkMargin=\dimen292
+\XeTeXLinkMargin=\dimen305
  (c:/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (c:/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count326
-\Field@Width=\dimen293
-\Fld@charsize=\dimen294
+\Fld@menulength=\count332
+\Field@Width=\dimen306
+\Fld@charsize=\dimen307
 Package hyperref Info: Hyper figures OFF on input line 6430.
 Package hyperref Info: Link nesting OFF on input line 6435.
 Package hyperref Info: Hyper index ON on input line 6438.
@@ -608,9 +652,9 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6455.
 Package hyperref Info: PDF/A mode OFF on input line 6460.
 LaTeX Info: Redefining \ref on input line 6500.
 LaTeX Info: Redefining \pageref on input line 6504.
-\Hy@abspage=\count327
-\c@Item=\count328
-\c@Hfootnote=\count329
+\Hy@abspage=\count333
+\c@Item=\count334
+\c@Hfootnote=\count335
 )
 Package hyperref Info: Driver (autodetected): hxetex.
  (c:/texlive/2020/texmf-dist/tex/latex/hyperref/hxetex.def
@@ -618,11 +662,11 @@ File: hxetex.def 2020/01/14 v7.00d Hyperref driver for XeTeX
  (c:/texlive/2020/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
-\pdfm@box=\box71
-\c@Hy@AnnotLevel=\count330
-\HyField@AnnotCount=\count331
-\Fld@listcount=\count332
-\c@bookmark@seq@number=\count333
+\pdfm@box=\box73
+\c@Hy@AnnotLevel=\count336
+\HyField@AnnotCount=\count337
+\Fld@listcount=\count338
+\c@bookmark@seq@number=\count339
  (c:/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
  (c:/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
@@ -638,31 +682,31 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 Package: uri 2018/09/06 v2.0b Hyperlinks URIs like DOI,HDL,NBN,PubMed (HMM)
 ) (c:/texlive/2020/texmf-dist/tex/latex/paracol/paracol.sty
 Package: paracol 2018/12/31 v1.35 
-\pcol@currcol=\count334
-\pcol@nextcol=\count335
-\pcol@ncol=\count336
-\pcol@ncolleft=\count337
-\pcol@page=\count338
-\pcol@basepage=\count339
-\pcol@toppage=\count340
-\pcol@footnotebase=\count341
-\pcol@nfootnotes=\count342
-\pcol@mcid=\count343
-\pcol@prevdepth=\dimen295
-\pcol@colht=\dimen296
-\pcol@textfloatsep=\dimen297
-\pcol@lrmargin=\dimen298
-\pagerim=\dimen299
+\pcol@currcol=\count340
+\pcol@nextcol=\count341
+\pcol@ncol=\count342
+\pcol@ncolleft=\count343
+\pcol@page=\count344
+\pcol@basepage=\count345
+\pcol@toppage=\count346
+\pcol@footnotebase=\count347
+\pcol@nfootnotes=\count348
+\pcol@mcid=\count349
+\pcol@prevdepth=\dimen308
+\pcol@colht=\dimen309
+\pcol@textfloatsep=\dimen310
+\pcol@lrmargin=\dimen311
+\pagerim=\dimen312
 \pcol@topskip=\skip87
 \belowfootnoteskip=\skip88
-\pcol@topfnotes=\box72
-\pcol@prespan=\box73
-\pcol@rightpage=\box74
-\pcol@colorstack@saved=\box75
-\pcol@tempboxa=\box76
-\pcol@tempboxb=\box77
+\pcol@topfnotes=\box74
+\pcol@prespan=\box75
+\pcol@rightpage=\box76
+\pcol@colorstack@saved=\box77
+\pcol@tempboxa=\box78
+\pcol@tempboxb=\box79
 \pcol@colorins=\insert252
-\pcol@everyvbox=\toks31
+\pcol@everyvbox=\toks40
 )) (./Ladd1966342.aux)
 \openout1 = `Ladd1966342.aux'.
 
@@ -779,20 +823,21 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box78
+\AtBeginShipoutBox=\box80
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
+ABD: EveryShipout initializing macros
 Package hyperref Info: Link coloring ON on input line 8.
-(c:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+ (c:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (c:/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (c:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count344
+\c@section@level=\count350
 )
 LaTeX Info: Redefining \ref on input line 8.
 LaTeX Info: Redefining \pageref on input line 8.
@@ -870,8 +915,10 @@ File: figures/figure-13.png Graphic file (type bmp)
 File: figures/figure-14.png Graphic file (type bmp)
 <figures/figure-14.png>
 ) [17]) (./sections/section-6.tex [18] (./figures/figure-15.tex
-File: figures/figure-15.png Graphic file (type bmp)
-<figures/figure-15.png>
+File: figures/figure-11a.png Graphic file (type bmp)
+<figures/figure-11a.png>
+File: figures/figure-11b.png Graphic file (type bmp)
+<figures/figure-11b.png>
 ) (./tables/table-4.tex
 Overfull \vbox (0.9323pt too high) detected at line 15
  []
@@ -888,7 +935,14 @@ Overfull \vbox (13.2823pt too high) detected at line 15
 Overfull \vbox (12.35pt too high) detected at line 19
  []
 
-) [19] [20]) (./sections/section-7.tex [21]
+) [19] [20]
+
+LaTeX Warning: Reference `table:4' on page 21 undefined on input line 82.
+
+
+LaTeX Warning: Reference `table:4' on page 21 undefined on input line 86.
+
+) (./sections/section-7.tex [21]
 Missing character: There is no ​ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ​ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ​ in font [lmroman10-regular]:mapping=tex-text;!
@@ -933,12 +987,12 @@ Overfull \hbox (0.15356pt too wide) in alignment at lines 41--62
  [] [] [] 
  []
 
-[23]
+
 Overfull \hbox (0.15356pt too wide) in alignment at lines 62--77
  [] [] [] 
  []
 
-[24]) (./Ladd1966342.bbl
+[23] [24]) (./Ladd1966342.bbl
 
 Package fontspec Info: Could not resolve font "FangSong/BI" (it probably
 (fontspec)             doesn't exist).
@@ -1189,15 +1243,22 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 55.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 55.
 Package rerunfilecheck Info: File `Ladd1966342.out' has not changed.
 (rerunfilecheck)             Checksum: 70479E6B6D8A6ED49A209F8FC71EBB2A;3304.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 55.
  ) 
 Here is how much of TeX's memory you used:
- 20721 strings out of 479418
- 424513 string characters out of 5888105
- 758540 words of memory out of 5000000
- 37792 multiletter control sequences out of 15000+600000
+ 25850 strings out of 479418
+ 530724 string characters out of 5888105
+ 836528 words of memory out of 5000000
+ 42832 multiletter control sequences out of 15000+600000
  547406 words of font info for 113 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 63i,27n,72p,1802b,769s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,27n,72p,1802b,768s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on Ladd1966342.pdf (56 pages).
