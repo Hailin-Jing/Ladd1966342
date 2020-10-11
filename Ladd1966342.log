@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.17)  21 AUG 2020 18:14
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.9.14)  11 OCT 2020 12:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,8 +6,8 @@ entering extended mode
 **Ladd1966342
 (./Ladd1966342.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-03-06> (c:/texlive/2020/library/tex/latex/bilidoc.cls
-Document Class: bilidoc 2020/08/19
+L3 programming layer <2020-03-06> (./bilidoc.cls
+Document Class: bilidoc 2020/09/10
 (c:/texlive/2020/texmf-dist/tex/latex/ctex/ctexart.cls (c:/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2020-03-06 L3 programming layer (loader) 
  (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
@@ -745,7 +745,45 @@ Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
 )) (c:/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count359
+) (c:/texlive/2020/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks44
+\verbatim@line=\toks45
+\verbatim@in@stream=\read2
+) (c:/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+ (c:/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex (c:/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks46
+\XKV@tempa@toks=\toks47
 )
+\XKV@depth=\count360
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (c:/texlive/2020/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2020/01/13 v3.5 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count361
+\FV@InFile=\read3
+\FV@TabBox=\box84
+\c@FancyVerbLine=\count362
+\FV@StepNumber=\count363
+\FV@OutFile=\write3
+) (c:/texlive/2020/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+) (c:/texlive/2020/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box85
+\beforetitleunit=\skip89
+\aftertitleunit=\skip90
+\ttl@plus=\dimen317
+\ttl@minus=\dimen318
+\ttl@toksa=\toks48
+\titlewidth=\dimen319
+\titlewidthlast=\dimen320
+\titlewidthfirst=\dimen321
+) (c:/texlive/2020/texmf-dist/tex/latex/titlesec/titletoc.sty
+Package: titletoc 2019/10/16 v2.13 TOC entries
+\ttl@leftsep=\dimen322
+)
+\spacewidth=\skip91
 
 Package fontspec Info: Font family 'CourierNew(0)' created for font 'Courier
 (fontspec)             New' with options [].
@@ -768,8 +806,8 @@ Package fontspec Info: Font family 'CourierNew(0)' created for font 'Courier
 
 ) (c:/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
 Package: xeCJK-listings 2020/02/18 v3.8.2 xeCJK patch file for listings
-\l__xeCJK_listings_max_char_int=\count360
-\l__xeCJK_listings_flag_int=\count361
+\l__xeCJK_listings_max_char_int=\count364
+\l__xeCJK_listings_flag_int=\count365
 ) (./Ladd1966342.aux)
 \openout1 = `Ladd1966342.aux'.
 
@@ -886,7 +924,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box84
+\AtBeginShipoutBox=\box86
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
@@ -894,7 +932,7 @@ Package caption Info: listings package is loaded.
 Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
 ABD: EveryShipout initializing macros
-\c@lstlisting=\count362
+\c@lstlisting=\count366
 Package hyperref Info: Link coloring ON on input line 8.
  (c:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -903,14 +941,14 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (c:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count363
+\c@section@level=\count367
 )
 LaTeX Info: Redefining \ref on input line 8.
 LaTeX Info: Redefining \pageref on input line 8.
 LaTeX Info: Redefining \nameref on input line 8.
  (./Ladd1966342.out) (./Ladd1966342.out)
-\@outlinefile=\write3
-\openout3 = `Ladd1966342.out'.
+\@outlinefile=\write4
+\openout4 = `Ladd1966342.out'.
 
 LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
  (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -960,7 +998,13 @@ File: figures/figure-9.png Graphic file (type bmp)
 <figures/figure-9.png>
 File: figures/figure-10.png Graphic file (type bmp)
 <figures/figure-10.png>
-) [9] [10] [11]) (./sections/section-4.tex
+)
+Overfull \vbox (1.35222pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (1.35222pt too high) has occurred while \output is active []
+
+ [9] [10] [11]) (./sections/section-4.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ifnextchar' on input line 3.
@@ -974,7 +1018,7 @@ File: figures/figure-11b.png Graphic file (type bmp)
 File: figures/figure-12.png Graphic file (type bmp)
 <figures/figure-12.png>
 ) [14]) (./sections/section-5.tex [15] (./tables/table-3.tex)
-\length=\skip89
+\length=\skip92
  [16] (./figures/figure-13-14.tex
 File: figures/figure-13.png Graphic file (type bmp)
 <figures/figure-13.png>
@@ -1046,12 +1090,12 @@ Overfull \hbox (0.15356pt too wide) in alignment at lines 41--62
  [] [] [] 
  []
 
-[23]
+
 Overfull \hbox (0.15356pt too wide) in alignment at lines 62--77
  [] [] [] 
  []
 
-[24]) (./Ladd1966342.bbl
+[23] [24]) (./Ladd1966342.bbl
 
 Package fontspec Info: Could not resolve font "FangSong/BI" (it probably
 (fontspec)             doesn't exist).
@@ -1305,12 +1349,12 @@ Package rerunfilecheck Info: File `Ladd1966342.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 55.
  ) 
 Here is how much of TeX's memory you used:
- 27577 strings out of 479418
- 556837 string characters out of 5888105
- 869501 words of memory out of 5000000
- 44505 multiletter control sequences out of 15000+600000
+ 28592 strings out of 479418
+ 571755 string characters out of 5888105
+ 893343 words of memory out of 5000000
+ 45495 multiletter control sequences out of 15000+600000
  547572 words of font info for 125 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 63i,27n,72p,1786b,777s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,27n,81p,1786b,795s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on Ladd1966342.pdf (56 pages).
